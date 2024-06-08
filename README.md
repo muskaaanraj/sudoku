@@ -1,2 +1,2 @@
 # sudoku
- it will help you to solve your sudoku's problem
+ sudoku using backtracking in c++
